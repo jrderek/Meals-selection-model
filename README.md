@@ -1,5 +1,7 @@
 # Meals-selection-model
+
 Best restaurant to serve
+
 ![image](https://user-images.githubusercontent.com/96236642/152838158-f1ab7b6f-3653-43f9-a244-ba96eb0b619c.png)
 
 Idea (Problem Description)
@@ -40,7 +42,7 @@ train ='./food-101/meta/train.txt'
 
 test ='./food-101/meta/test.txt'
 
-Check EDA and Data preparation notebook ➡️ (https://github.com/gialkady/Capstone-Project)
+Check EDA and Data preparation notebook 
 
 Models training
 Three models are trained through which we will choose the best model to use for our application which are:
